@@ -1,0 +1,1 @@
+CREATE SCHEMA rl_api_payments
